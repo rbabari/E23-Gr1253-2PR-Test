@@ -1,0 +1,1 @@
+print("Bonjour la vie est belle ... ")
